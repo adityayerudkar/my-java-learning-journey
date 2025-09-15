@@ -1,0 +1,28 @@
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+.parent{
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+.form-label {
+    font-weight: 500;
+    color: #4a5568;
+}
+.form-control, .form-select {
+    border-radius: 6px;
+    border-color: #e2e8f0;
+    padding: 0.625rem;
+}
+.form-control:focus, .form-select:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+.btn-primary {
+    padding: 0.625rem 1.25rem;
+    font-weight: 500;
+}
+
