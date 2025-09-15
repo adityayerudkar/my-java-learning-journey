@@ -1,7 +1,7 @@
 # My Java Learning Journey
 
-This repository contains beginner-level Java programs that I have written while learning core Java concepts.  
-It includes examples using **if-else**, **loops (for, while)**, **methods**, **constructors**, and basic object-oriented programming concepts.
+This repository contains my **Java beginner-level programs** written while learning core Java concepts.  
+It also serves as a daily practice log for improving problem-solving skills in Java.
 
 ---
 
@@ -26,8 +26,3 @@ It includes examples using **if-else**, **loops (for, while)**, **methods**, **c
 
 5. **Ternary Operator**
    - Finding maximum of two numbers using ternary operator
-
----
-
-## 📂 Folder Structure
-
